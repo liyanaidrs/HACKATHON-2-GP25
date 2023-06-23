@@ -23,22 +23,22 @@ This game aims to offer an entertaining and educational experience as it include
 #
 ## HOW TO PLAY THE GAME ?
 ##### i.	Do you want to play the game?
-#####      a)	‘Y’ / ‘y’: Start the game.
-#####      b)	‘N’ / ‘n’: End the game.
+#####     a)	‘Y’ / ‘y’: Start the game.
+#####     b)	‘N’ / ‘n’: End the game.
 ##### ii.	Enter number of players.
-##### a)	If (number of players > 0): accept.
-##### b)	Else: reject and ask user to enter again
+#####     a)	If (number of players > 0): accept.
+#####     b)	Else: reject and ask user to enter again
 ##### iii.	Enter players’ names.
 ##### iv.	Initialize the number of rounds in a single game.
 ##### v.	While (Round <= number of round)
-##### a)	Players will take turns to guess the random word.
-##### b)	If (correct): the player obtains one score.
-##### Else: does not obtain score.
-##### c)	Leaderboard for the round is display.
+#####      a)	Players will take turns to guess the random word.
+#####      b)	If (correct): the player obtains one score.
+#####          Else: does not obtain score.
+#####       c)	Leaderboard for the round is display.
 ##### vi.	When the round finish, the programme will display whether the game has a winner or end up with a tie.
 ##### vii.	Player can choose either to continue the game or end it.
-##### a)	‘Y’ / ‘y’: Start new game.
-##### b)	‘N’ / ‘n’: End the game.
+#####       a)	‘Y’ / ‘y’: Start new game.
+#####       b)	‘N’ / ‘n’: End the game.
 #
 ## HOW OBJECT-ORIENTED CONCEPTS WERE USED ?
 This programme contains two classes which are class WordList for linked list operation and class GuessTheWordGame,  is created for coordinate the flow of the game. In the GuessTheWordGame, we composite the WordList class to access the linked list operation. In the main programme, we create an object of class GuessTheWordGame called game. 
