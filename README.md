@@ -9,7 +9,7 @@
 A text-based game, sometimes referred to as interactive fiction, is a game in which all player interaction occurs through words displayed on the screen. Therefore, as the game can be played through a web browser, users do not need to install anything in order to play.
 In our project, the game is implemented using a linked list, and we presented it with the name, Guess the Word Game. In the multiplayer "Guess the Word" game, players have to guess the word based on the theme and the number of empty spaces. Vegetables have been selected as the game's theme. As a result, the participants have to give answers that are related to vegetables like cauliflower, onion, and many more. Additionally, in each game, players could determine how many rounds to play. Therefore, each player must guess the word according to the chosen number of rounds in a single game. Player with the highest score will be the winner.
 This game aims to offer an entertaining and educational experience as it includes knowledge of languages, strategic thinking, and friendly competition. Furthermore, players of all ages can enjoy this game, not just children.
-
+#
 ## FEATURES
 ##### a)	**Start game** – Players have the option to start the game or not by typing 'Y' or 'N'.
 ##### b)	**Multiplayer mode** – By taking turns providing the answers, players can compete against one another. 
@@ -20,7 +20,7 @@ This game aims to offer an entertaining and educational experience as it include
 ##### g)	**Score tracking** – Based on the correct answer, the game evaluates each player's score for each round. 
 ##### h)	**Leaderboard** – At the end of the game, the leaderboard will display the highest scores all players received, and this will determine how the winner is decided.
 ##### i)	**Game over** – The decision to continue on playing the game or quit was up to the players.
-
+#
 ## HOW TO PLAY THE GAME ?
 ##### i.	Do you want to play the game?
 #####      a)	‘Y’ / ‘y’: Start the game.
@@ -39,7 +39,7 @@ This game aims to offer an entertaining and educational experience as it include
 ##### vii.	Player can choose either to continue the game or end it.
 ##### a)	‘Y’ / ‘y’: Start new game.
 ##### b)	‘N’ / ‘n’: End the game.
-
+#
 ## HOW OBJECT-ORIENTED CONCEPTS WERE USED ?
 #
 ## HOW LINKED LIST PLAY A ROLE ?
