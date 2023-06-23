@@ -23,8 +23,8 @@ This game aims to offer an entertaining and educational experience as it include
 
 ## HOW TO PLAY THE GAME ?
 ##### i.	Do you want to play the game?
-##### a)	‘Y’ / ‘y’: Start the game.
-##### b)	‘N’ / ‘n’: End the game.
+#####      a)	‘Y’ / ‘y’: Start the game.
+#####      b)	‘N’ / ‘n’: End the game.
 ##### ii.	Enter number of players.
 ##### a)	If (number of players > 0): accept.
 ##### b)	Else: reject and ask user to enter again
