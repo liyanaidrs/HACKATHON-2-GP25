@@ -11,8 +11,8 @@ In our project, the game is implemented using a linked list, and we presented it
 This game aims to offer an entertaining and educational experience as it includes knowledge of languages, strategic thinking, and friendly competition. Furthermore, players of all ages can enjoy this game, not just children.
 
 ## FEATURES
-a)	Start game – Players have the option to start the game or not by typing 'Y' or 'N'.
-b)	Multiplayer mode – By taking turns providing the answers, players can compete against one another. 
+###a)	Start game – Players have the option to start the game or not by typing 'Y' or 'N'.
+###b)	Multiplayer mode – By taking turns providing the answers, players can compete against one another. 
 c)	Flexible game round – In each game, players can decide how many rounds they want to play. 
 d)	Hint system – The number of blank spaces used to indicate the answer's word length serves as the hint.
 e)	Educational element – The game is about different kinds of vegetables. As a result, it might expand the players' vocabulary.
