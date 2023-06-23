@@ -43,6 +43,7 @@ This game aims to offer an entertaining and educational experience as it include
 ## HOW OBJECT-ORIENTED CONCEPTS WERE USED ?
 #
 ## HOW LINKED LIST PLAY A ROLE ?
+For the linked list, we create a class name Wordlist that contains all the operations of the linked list. In the private part of this class, we create a struct named Node to declare the word and the pointer next. In addition, there is also a pointer head. On the other hand, for the public part, there are two functions and one constructor. The first function named addWord. The parameter of this function is obtained from the text file created name “Vegetables”.  This function works to append new word onto the last node of the linked list. Not only that, this function contains two pointers which are newNode and current. Next, the second function is getRandomWord that will randomize the word that will be used during the guess game. Furthermore, this function has one pointer current. This function also required rand () function that will generate random number.   
 # 
 ## GAME DEMO VIDEO
 Link : 
