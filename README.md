@@ -33,7 +33,7 @@ This game aims to offer an entertaining and educational experience as it include
 ##### iv.	While (Round <= number of round)
 ##### &ensp;     a)	Players will take turns to guess the random word.
 ##### &ensp;     b)	If (correct): the player obtains one score.
-##### &emsp;        Else: does not obtain any score.
+##### &emsp; &ensp;        Else: does not obtain any score.
 ##### &ensp;     c)	Leaderboard for the round is display.
 ##### v.	When the round finish, the programme will display whether the game has a winner or end up with a tie.
 ##### vi.	Player can choose either to continue the game or end it.
