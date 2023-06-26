@@ -12,8 +12,8 @@ This game aims to offer an entertaining and educational experience as it include
 
 #
 ## FEATURES
-##### a)	**_Start game_** – Players have the option to start the game or not by typing 'Y' or 'N'.
-##### b)	**_Multiplayer mode_** – By taking turns providing the answers, players can compete against one another. 
+#### a)	**_Start game_** – Players have the option to start the game or not by typing 'Y' or 'N'.
+#### b)	**_Multiplayer mode_** – By taking turns providing the answers, players can compete against one another. 
 ##### c)	**_Flexible game round_** – In each game, players can decide how many rounds they want to play. 
 ##### d)	**_Hint system_** – The hint is provided by the number of letters as well as the first and last letters that were utilised to suggest the answer.
 ##### e)	**_Educational element_** – The game is about different kinds of vegetables. As a result, it might expand the players' vocabulary.
