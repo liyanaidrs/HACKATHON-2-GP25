@@ -12,19 +12,19 @@ This game aims to offer an entertaining and educational experience as it include
 
 #
 ## FEATURES
-##### a)	**Start game** – Players have the option to start the game or not by typing 'Y' or 'N'.
-##### b)	**Multiplayer mode** – By taking turns providing the answers, players can compete against one another. 
+##### a)	**_Start game_** – Players have the option to start the game or not by typing 'Y' or 'N'.
+##### b)	**_Multiplayer mode_** – By taking turns providing the answers, players can compete against one another. 
 ##### c)	**_Flexible game round_** – In each game, players can decide how many rounds they want to play. 
 ##### d)	**_Hint system_** – The hint is provided by the number of letters as well as the first and last letters that were utilised to suggest the answer.
-##### e)	**Educational element** – The game is about different kinds of vegetables. As a result, it might expand the players' vocabulary.
-##### f)	**Scoring** – Each round, those who correctly answer will receive one score.
-##### g)	**Score tracking** – Based on the correct answer, the game evaluates each player's score for each round. 
-##### h)	**Leaderboard** – At the end of the game, the leaderboard will display the highest scores all players received, and this will determine how the winner is decided.
-##### i)	**Game over** – The decision to continue on playing the game or quit was up to the players.
+##### e)	**_Educational element_** – The game is about different kinds of vegetables. As a result, it might expand the players' vocabulary.
+##### f)	**_Scoring_** – Each round, those who correctly answer will receive one score.
+##### g)	**_Score tracking_** – Based on the correct answer, the game evaluates each player's score for each round. 
+##### h)	**_Leaderboard_** – At the end of the game, the leaderboard will display the highest scores all players received, and this will determine how the winner is decided.
+##### i)	**_Game over_** – The decision to continue on playing the game or quit was up to the players.
 #
 ## HOW TO PLAY THE GAME ?
 ##### i.	Do you want to play the game?
-#####     a)	‘Y’ / ‘y’: Start the game.
+##### &nbsp    a)	‘Y’ / ‘y’: Start the game.
 #####     b)	‘N’ / ‘n’: End the game.
 ##### ii.	Enter number of players.
 #####     a)	If (number of players > 0): accept.
