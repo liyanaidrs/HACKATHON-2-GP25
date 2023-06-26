@@ -25,7 +25,7 @@ This game aims to offer an entertaining and educational experience as it include
 ## HOW TO PLAY THE GAME ?
 #### i.	Do you want to play the game?
 #### &ensp;    a)	‘Y’ / ‘y’: Start the game.
-#### &ensp;    b)	‘N’ / ‘n’: End the game.
+#### &ensp;    b)	‘X’ / ‘x’: End the game.
 #### ii.	Enter number of players.
 #### &ensp;    a)	If (number of players > 0): accept.
 #### &ensp;    b)	Else: reject and ask user to enter again
