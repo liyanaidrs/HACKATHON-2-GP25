@@ -25,20 +25,20 @@ This game aims to offer an entertaining and educational experience as it include
 ## HOW TO PLAY THE GAME ?
 ##### i.	Do you want to play the game?
 ##### &ensp;    a)	‘Y’ / ‘y’: Start the game.
-#####     b)	‘N’ / ‘n’: End the game.
+##### &ensp;    b)	‘N’ / ‘n’: End the game.
 ##### ii.	Enter number of players.
-#####     a)	If (number of players > 0): accept.
-#####     b)	Else: reject and ask user to enter again
+##### &ensp;    a)	If (number of players > 0): accept.
+##### &ensp;    b)	Else: reject and ask user to enter again
 ##### iii.	Initialize the number of rounds in a single game.
 ##### iv.	While (Round <= number of round)
-#####      a)	Players will take turns to guess the random word.
-#####      b)	If (correct): the player obtains one score.
-#####         Else: does not obtain any score.
-#####      c)	Leaderboard for the round is display.
+##### &ensp;     a)	Players will take turns to guess the random word.
+##### &ensp;     b)	If (correct): the player obtains one score.
+##### &emsp;        Else: does not obtain any score.
+##### &ensp;     c)	Leaderboard for the round is display.
 ##### v.	When the round finish, the programme will display whether the game has a winner or end up with a tie.
 ##### vi.	Player can choose either to continue the game or end it.
-#####      a)	‘Y’ / ‘y’: Start new game.
-#####      b)	‘X’ / ‘x’: End the game.
+##### &ensp;     a)	‘Y’ / ‘y’: Start new game.
+##### &ensp;     b)	‘X’ / ‘x’: End the game.
 #
 ## HOW OBJECT-ORIENTED CONCEPTS WERE USED ?
 The object-oriented concepts used to build this game are classes and objects, encapsulation, and dynamic memory allocation by using pointer. The WordList class is used to store and manage a linked list of words, while the GuessTheWordGame class handles the overall game logic and user interface. The use of classes and objects allows for better organization and abstraction of the code. Encapsulation ensures that the internal implementation details of the WordList and GuessTheWordGame classes are hidden from the user, making the code more modular and easier to maintain. Dynamic memory allocation using pointers is used to initialize and manipulate the linked list of words in the WordList class.
