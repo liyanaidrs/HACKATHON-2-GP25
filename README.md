@@ -9,7 +9,7 @@
 A text-based game, sometimes referred to as interactive fiction, is a game in which all player interaction occurs through words displayed on the screen. Therefore, as the game can be played through a web browser, users do not need to install anything in order to play.
 <br>
 In our project, the game is implemented using a linked list, and we presented it with the name, Guess the Word Game. In the multiplayer "Guess the Word" game, players have to guess the word based on the theme, the number of letters as well as the first and last letters given. Vegetables have been selected as the game's theme. As a result, the participants have to give answers that are related to vegetables like cauliflower, onion, and many more. Additionally, in each game, players could determine how many rounds to play. Therefore, each player must guess the word according to the chosen number of rounds in a single game. At the end of the game, player with the highest score will be the winner. However, if all players obtain the same score, then, the game end up with a tie.
-#
+<br>
 This game aims to offer an entertaining and educational experience as it includes knowledge of languages, strategic thinking, and friendly competition. Furthermore, players of all ages can enjoy this game, not just children.
 
 #
