@@ -1,9 +1,9 @@
 # **HACKATHON 2   GROUP 25**
 #
 ### GROUP MEMBERS:
-#### NUR FATIN AINA BINTI MOH AMIR      160353
-#### NURUL LIYANA BINTI IDRIS           160438
-#### SITI ANISAH BINTI NOOR JAMIN       160408
+#### NUR FATIN AINA BINTI MOH AMIR  &emsp;   160353
+#### NURUL LIYANA BINTI IDRIS  &emsp;   160438
+#### SITI ANISAH BINTI NOOR JAMIN  &emsp;   160408
 #
 ## DESCRIPTION OF THE GAME
 A text-based game, sometimes referred to as interactive fiction, is a game in which all player interaction occurs through words displayed on the screen. Therefore, as the game can be played through a web browser, users do not need to install anything in order to play.
@@ -46,7 +46,7 @@ This game aims to offer an entertaining and educational experience as it include
 The object-oriented concepts used to build this game are classes and objects, encapsulation, and dynamic memory allocation by using pointer. The WordList class is used to store and manage a linked list of words, while the GuessTheWordGame class handles the overall game logic and user interface. The use of classes and objects allows for better organization and abstraction of the code. Encapsulation ensures that the internal implementation details of the WordList and GuessTheWordGame classes are hidden from the user, making the code more modular and easier to maintain. Dynamic memory allocation using pointers is used to initialize and manipulate the linked list of words in the WordList class.
 #
 ## HOW LINKED LIST PLAY A ROLE ?
-For the linked list, we create a class name Wordlist that contains all the operations of the linked list. In the private part of this class, we create a struct named Node to declare the word and the pointer next. In addition, there is also a pointer head. On the other hand, for the public part, there are two functions and one constructor. The first function named addWord. The parameter of this function is obtained from the text file created name “Vegetables”.  This function works to append new word onto the last node of the linked list. Not only that, this function contains two pointers which are newNode and current. Next, the second function is getRandomWord that will randomize the word that will be used during the guess game. Furthermore, this function has one pointer current. This function also required rand () function that will generate random number.   
+For the linked list, we create a class name Wordlist that contains all the operations of the linked list. In the private part of this class, we create a struct named Node to declare the word and the pointer next. In addition, there is also a pointer head. On the other hand, for the public part, there are two functions and one constructor. The first function named addWord. The parameter of this function is obtained from the text file created name “vegetables”.  This function works to append new word onto the last node of the linked list. Not only that, this function contains two pointers which are newNode and current. Next, the second function is getRandomWord that will randomize the word that will be used during the guess game. Furthermore, this function has one pointer current. This function also required rand () function that will generate random number.   
 # 
 ## GAME DEMO VIDEO
 Link : https://youtu.be/eOdUWZ-k864
